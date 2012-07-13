@@ -1,4 +1,8 @@
-SliderNav_Extension is an extension of SliderNav JQuery plugin. It has all the features of SliderNav along with additional features:
+SliderNav_Extension is an extension of SliderNav JQuery plugin. 
+
+https://github.com/mdolon/SliderNav
+
+It has all the features of SliderNav along with additional features:
 
 1.	Added Scroll bar for easy navigation
 2.	Added search option which will scroll to the best match.
